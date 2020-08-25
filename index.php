@@ -6,6 +6,7 @@ include('includes/config.inc.php');
 include('includes/functions.inc.php');
 include('includes/wowarmoryapi/BattlenetArmory.class.php');
 
+//It helps if you change it in the right repo ofc.
 
 // Load the class and define the realm and region 
 $armory = new BattlenetArmory('EU','Auchindoun'); 
