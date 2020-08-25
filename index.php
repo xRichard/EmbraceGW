@@ -1,6 +1,8 @@
 <?php
 //Home page used to load the multiple pages, and this file will contain the style of the website.
 
+//Adding a test comment here to make sure we can create a pull request to a other repo.
+
 //Loading the multiple incldues
 include('includes/config.inc.php');
 include('includes/functions.inc.php');
